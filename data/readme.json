@@ -2,20 +2,17 @@
   "id": 31,
   "created_at": "2025-01-23T00:00:00Z",
   "seo_title": "Internet Archive Downloader - Free Content Download Tool",
-  "seo_description": "https://serp.ly/internet-archive-downloader",
+  "seo_description": null,
   "product_page_url": "https://store.serp.co/product-details/product/internet-archive-downloader",
   "purchase_url": "https://serp.ly/internet-archive-downloader",
   "store_product_id": null,
   "name": "Internet Archive Downloader",
-  "tagline": "https://serp.ly/internet-archive-downloader",
-  "featured_image": "images/internet-archive-downloader.jpg",
-  "featured_image_gif": "images/internet-archive-downloader.gif",
+  "tagline": "Access and download books, videos, and websites from Internet Archive",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/internet-archive-downloader/assets/images/internet-archive-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/internet-archive-downloader/assets/images/internet-archive-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/internet-archive-downloader",
   "github_repo_tags": [
-    "internet-archive-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "internet-archive-downloader"
   ],
   "github_gist_url": null,
   "features": [
@@ -55,13 +52,11 @@
     "Node.js",
     "Automation"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/internet-archive-downloader",
-  "serpai_product_page_link": null,
+  "serpco_product_page_link": "https://serp.co/products/internet-archive-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/internet-archive-downloader/reviews/",
   "file_formats": null,
   "categories": [
-    "Video Downloaders",
-    "Content Tools",
-    "Automation"
+    "file hosting"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -72,21 +67,18 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/internet-archive-downloader",
     "https://devinschumacher.com/internet-archive-downloader",
-    "https://serp.co/products/internet-archive-downloader/reviews/"
+    "https://serp.co/products/internet-archive-downloader/",
+    "https://github.com/sponsors/devinschumacher"
   ],
   "keywords": [
-    "internet-archive",
-    "downloader",
-    "automation",
-    "tool",
-    "free"
+    "internet archive downloader"
   ]
 }
